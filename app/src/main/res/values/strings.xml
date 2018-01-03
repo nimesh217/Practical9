@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practical9</string>
+    <string name="font_face">Select font</string>
+    <string-array name="font_name">
+        <item>Monospace</item>
+        <item>normal</item>
+        <item>serif</item>
+        <item>sans</item>
+    </string-array>
+</resources>
